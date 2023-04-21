@@ -16,7 +16,8 @@ class MainActivity : AppCompatActivity() {
         "26/03/2566",
         "27/03/2566",
         "28/03/2655",
-        "29/03/2546"
+        "29/03/2546",
+        "30/03/2500"
     )
     private lateinit var recyclerView : RecyclerView
     @SuppressLint("MissingInflatedId")
